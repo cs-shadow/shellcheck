@@ -1,5 +1,9 @@
 # ShellCheck - A shell script static analysis tool
 
+testing
+
+more tests
+
 ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts:
 
 ![Screenshot of a terminal showing problematic shell script lines highlighted](doc/terminal.png).
